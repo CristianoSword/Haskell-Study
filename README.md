@@ -17,4 +17,4 @@
  - [ ] Roseiras (rose Tree)
  - [ ] Zipper p/ árvores
  - [ ] Árvores Rubro-Negras
- - [ ] Exercicios 
+ - [ ] Exercicios
