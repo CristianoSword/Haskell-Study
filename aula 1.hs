@@ -11,4 +11,8 @@ coma a b =  a + b
 
 -- triplica
 triplica :: Int -> Int
+<<<<<<< HEAD
 triplica var = var*3
+=======
+triplica var = var*3
+>>>>>>> b372261228932e06bc44d6d8bc7829fbaa8aa42a
