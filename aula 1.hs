@@ -10,5 +10,5 @@ soma :: Float -> Float -> Float
 coma a b =  a + b
 
 -- triplica
-tri´plica :: Int -> Int
+triplica :: Int -> Int
 triplica var = var*3
