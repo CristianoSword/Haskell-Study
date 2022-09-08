@@ -4,7 +4,7 @@
  - [ ] Lambdas
  - [ ] Combinator Y
  - [x] Tipos básicos
- - [ ] Assinatura de função e Cláusula where
+ - [x] Assinatura de função e Cláusula where
  - [x] Condicional, Guards e Pattern Matching
  - [ ] Listas, foldr, foldl, Zipper e Recursão
  - [ ] QuickCheack
