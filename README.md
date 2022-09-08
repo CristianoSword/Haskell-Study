@@ -5,7 +5,7 @@
  - [ ] Combinator Y
  - [x] Tipos básicos
  - [ ] Assinatura de função e Cláusula where
- - [ ] Condicional, Guards e Pattern Matching
+ - [x] Condicional, Guards e Pattern Matching
  - [ ] Listas, foldr, foldl, Zipper e Recursão
  - [ ] QuickCheack
  - [ ] Monoid, Fold, Functor e Tranversable
