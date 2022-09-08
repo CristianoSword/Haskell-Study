@@ -6,7 +6,7 @@ quadrado :: Int -> Int
 quadrado n = n*n
 
 -- soma
-soma :: Float -> Float -> Float
+soma :: Int -> Int -> Int
 soma a b =  a + b
 
 -- triplica
