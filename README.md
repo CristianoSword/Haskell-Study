@@ -3,7 +3,7 @@
  List to-do
  - [ ] Lambdas
  - [ ] Combinator Y
- - [ ] Tipos básicos
+ - [x] Tipos básicos
  - [ ] Assinatura de função e Cláusula where
  - [ ] Condicional, Guards e Pattern Matching
  - [ ] Listas, foldr, foldl, Zipper e Recursão
