@@ -15,3 +15,4 @@ soma a b =  a + b
 -- triplica
 triplica :: Int -> Int
 triplica var = var*3
+
