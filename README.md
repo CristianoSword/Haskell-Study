@@ -7,6 +7,7 @@
  - [x] Assinatura de função e Cláusula where
  - [x] Condicional, Guards e Pattern Matching
  - [x] Listas, foldr, foldl, Zipper, Recursão
+ - [ ] Tuplas
  - [ ] QuickCheack
  - [ ] Monoid, Fold, Functor e Tranversable
  - [ ] Laziness
