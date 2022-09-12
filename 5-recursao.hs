@@ -4,7 +4,7 @@ potencia2 n
     | n == 0 = 1
     | n  > 0 = 2 * potencia2 (n-1)
     
--- Recursao em calda
+-- Recursao em cauda
 potencia2cauda :: Int -> Int -> Int
 potencia2cauda n acumulado
     | n == 0 = acumulado
