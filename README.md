@@ -6,10 +6,11 @@
  - [x] Tipos básicos
  - [x] Assinatura de função e Cláusula where
  - [x] Condicional, Guards e Pattern Matching
- - [x] Listas, foldr, foldl, Zipper e Recursão
+ - [x] Listas e Recursão
+ - [ ] foldr, foldl e Zipper
  - [ ] Tuplas
  - [ ] QuickCheack
- - [ ] Monoid, Fold, Functor e Tranversable
+ - [ ] Monoid, Functor e Tranversable
  - [ ] Laziness
  - [ ] Eval Monoid
  - [ ] ThereadScope
