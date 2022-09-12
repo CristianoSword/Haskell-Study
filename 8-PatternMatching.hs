@@ -1,4 +1,5 @@
 -- Pattern Matching/ casamento de padroes
+-- sempre analisado de cima pra baixo, como de forma procedural tipo asm
 padroes1 :: Int -> String
 padroes1 1 = "um!"
 padroes1 2 = "dois!"
