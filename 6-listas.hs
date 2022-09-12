@@ -11,3 +11,10 @@ cubo x = x * x * x
 aoCubo :: [Int] -> [Int]
 aoCubo [] = []
 aoCubo (head:tail) = cubo(head) : aoCubo tail
+
+-- Ordenacao de listas: Quicksort
+qsort :: [Int] -> [Int]
+qsort [] = []
+qsort (head:tail) = qsort [y | y <- tail, y < head] --menores que pivo
+                    ++ [head] -- o pivo
+                    ++ qsort [y | y <- tail, y >= head]
