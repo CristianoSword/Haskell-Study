@@ -8,7 +8,7 @@
  - [x] Condicional, Guards e Pattern Matching
  - [x] Listas e Recursão
  - [ ] foldr, foldl e Zipper
- - [ ] Tuplas
+ - [x] Tuplas
  - [ ] QuickCheack
  - [ ] Monoid, Functor e Tranversable
  - [ ] Laziness
