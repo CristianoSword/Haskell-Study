@@ -13,8 +13,9 @@ padroes2 (_:t) = 1 + padroes2 t -- pattern caso seja recursivo
 
 type Tupla4 = (Int, Int, Int, Int)      --Define tipo 4 tupla
 padroes3 :: Tupla4 -> String
-padroes3 (_, _, _, fourth) | fourth >10 = "Maior que 10."
-                           | otherwise = "Nao maior que 10."
+padroes3 (_, _, _, fourth) 
+            | fourth >10 = "Maior que 10."
+            | otherwise = "Nao maior que 10."
 
 -- exemplo terminal
 -- padroes2 [x | x <- [1..100], mod x 2 == 0]
