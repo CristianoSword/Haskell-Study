@@ -1,4 +1,4 @@
-﻿# Haskell-Learn
+﻿# Haskell-Learn 
  
  List to-do
  - [ ] Lambdas
