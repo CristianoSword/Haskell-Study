@@ -1,5 +1,5 @@
 ﻿# Haskell-Learn 
- 
+  
  List to-do
  - [ ] Lambdas
  - [ ] Combinator Y
