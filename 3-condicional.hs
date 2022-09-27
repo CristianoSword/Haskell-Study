@@ -1,6 +1,6 @@
 -- sempre atribuindo as variaveis de parametro ao escopo do campo da condicional
 maior :: Int -> Int -> Int
-maior a ba = if (a >= b)
+maior a b = if (a >= b)
      then a
      else b
 
