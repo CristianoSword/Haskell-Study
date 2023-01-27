@@ -16,3 +16,9 @@ soma a b =  a + b
 triplica :: Int -> Int
 triplica var = var*3
 
+--ex de palavras reservadas
+--ghci> pred 5
+--ghci> 4
+--ghci> succ 5
+--ghci> 6
+
