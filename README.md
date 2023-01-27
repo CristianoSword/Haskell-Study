@@ -1,14 +1,14 @@
 ﻿# Haskell-Learn 
   
  List to-do
- - [ ] Lambdas
- - [ ] Combinator Y
+ - [x] Lambdas
  - [x] Tipos básicos
  - [x] Assinatura de função e Cláusula where
  - [x] Condicional, Guards e Pattern Matching
  - [x] Listas e Recursão
- - [ ] foldr, foldl e Zipper
  - [x] Tuplas
+ - [ ] foldr, foldl e Zipper
+ - [ ] Combinator Y
  - [ ] QuickCheack
  - [ ] Monoid, Functor e Tranversable
  - [ ] Laziness
