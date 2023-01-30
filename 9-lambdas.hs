@@ -1,8 +1,8 @@
-//lambda tambem chamada de funcoes anonimas
+-- //lambda tambem chamada de funcoes anonimas
 
-//sem lambda
+-- sem lambda
 dobrarLista ls = map dobro ls
     where dobro x = 2 * x
 
-//com lambda
+-- com lambda
 dobrarLista ls = map (\x -> 2 * x) ls
