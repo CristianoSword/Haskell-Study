@@ -11,7 +11,7 @@
  - [ ] Combinator Y
  - [ ] QuickCheack
  - [ ] Monoid, Functor e Tranversable
- - [ ] Laziness
+ - [x] Laziness
  - [ ] Eval Monoid
  - [ ] ThereadScope
  - [ ] Async 
