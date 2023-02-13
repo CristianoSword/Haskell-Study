@@ -14,7 +14,7 @@
  - [x] Laziness
  - [ ] Eval Monoid
  - [ ] ThereadScope
- - [ ] Async 
+ - [x] Async 
  - [ ] Árvores Binárias
  - [ ] Roseiras (rose Tree)
  - [ ] Zipper p/ árvores
