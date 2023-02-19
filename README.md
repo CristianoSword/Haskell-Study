@@ -7,14 +7,14 @@
  - [x] Condicional, Guards e Pattern Matching
  - [x] Listas e Recursão
  - [x] Tuplas
+ - [x] Laziness
+ - [x] Async 
  - [ ] foldr, foldl e Zipper
  - [ ] Combinator Y
  - [ ] QuickCheack
  - [ ] Monoid, Functor e Tranversable
- - [x] Laziness
  - [ ] Eval Monoid
  - [ ] ThereadScope
- - [x] Async 
  - [ ] Árvores Binárias
  - [ ] Roseiras (rose Tree)
  - [ ] Zipper p/ árvores
