@@ -30,4 +30,5 @@ Material de referencia:
  
  - Site sobre trabalhos de Alan Turing em programação funcional (ingles):
  https://www.digitalonus.com/the-origins-of-functional-programming/
+ http://haskell.tailorfontela.com.br/chapters (portugues)
  
