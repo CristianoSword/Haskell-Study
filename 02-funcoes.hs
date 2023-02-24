@@ -22,3 +22,7 @@ triplica var = var*3
 --ghci> succ 5
 --ghci> 6
 
+-- number lucky -  verifica se o número dado é dois ou não.
+lucky :: (Integral a) => a -> String  
+lucky 7 = "DOIS! BINGO!"  
+lucky x = "Desculpe, tente novamente!"   
