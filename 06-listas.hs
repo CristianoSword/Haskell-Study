@@ -25,3 +25,6 @@ zip [5,3,2,6,2,7,2,5,4,6,6] ["eu","sou","uma", "tartaruga"]
 
 zip [1..] ["banana", "laranja", "melancia", "uva"]  
 --output ghci> [(1,"banana"),(2,"laranja"),(3,"melancia"),(4,"uva")]  
+
+-- em Haskell uma lista é definida recursivamente 
+data [a] = [] | a : [a]
