@@ -32,3 +32,8 @@ valida (d,m,a)
             | d >= 1 && d <= 28 && m == 2 && not (bissexto a) = True
             | d >= 1 && d <= 29 && m == 2 && (bissexto a) = True
             | otherwise = False
+
+-- 
+ghci> let rightTriangles' = [ (a,b,c) | c <- [1..10], b <- [1..c], a <- [1..b], a^2 + b^2 == c^2, a+b+c == 24]  
+ghci> rightTriangles'  
+[(6,8,10)]  
