@@ -1,4 +1,4 @@
-﻿# Haskell-Learn 
+# Haskell-Learn 
   
  List to-do
  - [x] Lambdas
@@ -9,17 +9,16 @@
  - [x] Tuplas
  - [x] Laziness
  - [x] Async 
- - [ ] foldr, foldl e Zipper
- - [ ] Combinator Y
- - [ ] QuickCheack
- - [ ] Monoid, Functor e Tranversable
- - [ ] Eval Monoid
- - [ ] ThereadScope
- - [ ] Árvores Binárias
+ - [x] foldr, foldl e Zipper
+ - [x] Combinator Y
+ - [x] QuickCheack
+ - [x] Monoid, Functor e Tranversable
+ - [x] Eval Monoid
+ - [x] ThereadScope
+ - [x] Árvores Binárias
  - [ ] Roseiras (rose Tree)
- - [ ] Zipper p/ árvores
  - [ ] Árvores Rubro-Negras
- - [ ] Exercicios
+ - [ ] Exercicio - Programa final - 
 
 Material de referencia:
  - Canal UFABC do youtube:
