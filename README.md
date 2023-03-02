@@ -18,7 +18,7 @@
  - [x] Árvores Binárias
  - [ ] Roseiras (rose Tree)
  - [ ] Árvores Rubro-Negras
- - [ ] Exercicio - Programa final - 
+ - [ ] Exercicio - Programa final - RPG de Texto
 
 Material de referencia:
  - Canal UFABC do youtube: <br>
