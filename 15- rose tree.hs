@@ -1,5 +1,24 @@
 -- Rose tree
 -- Rose tree (árvore-roseira) é uma estrutura de dados em Haskell que representa uma árvore enraizada, onde cada nó pode ter um número arbitrário de filhos.
+    
+-- Rose tree:
+
+--          A
+--        / | \
+--       B  C  D
+--     / |  \
+--    E  F   G
+--       |
+--       H
+
+-- Árvore comum:
+
+--          A
+--        / | \
+--       B  C  D
+--     / | \   \
+--    E  F  G   H
+
 
 data RoseTree a = Node a [RoseTree a]  -- define o tipo de dados para uma rose tree
 
