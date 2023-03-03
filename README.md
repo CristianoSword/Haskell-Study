@@ -16,7 +16,7 @@
  - [x] Eval Monoid
  - [x] ThereadScope
  - [x] Árvores Binárias
- - [ ] Roseiras (rose Tree)
+ - [x] Roseiras (rose Tree)
  - [ ] Árvores Rubro-Negras
  - [ ] Exercicio - Programa final - RPG de Texto
 
