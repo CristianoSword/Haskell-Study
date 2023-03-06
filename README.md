@@ -17,7 +17,7 @@
  - [x] ThereadScope
  - [x] Árvores Binárias
  - [x] Roseiras (rose Tree)
- - [ ] Árvores Rubro-Negras
+ - [x] Árvores Rubro-Negras
  - [ ] Exercicio - Programa final - RPG de Texto
 
 Material de referencia:
