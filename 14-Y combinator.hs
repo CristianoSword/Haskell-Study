@@ -16,3 +16,4 @@ main :: IO ()
 main = do
     print $ factorial 0 -- retorna 1
     print $ factorial 5 -- retorna 120
+
