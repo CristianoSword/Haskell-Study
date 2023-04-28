@@ -2,37 +2,37 @@
   
  List to-do
  - [x] Lambdas
- - [x] Tipos básicos
- - [x] Assinatura de função e Cláusula where
- - [x] Condicional, Guards e Pattern Matching
- - [x] Listas e Recursão
- - [x] Tuplas
+ - [x] Basic Types
+ - [x] Assign Function and Where clause
+ - [x] Condition, Guards and Pattern Matching
+ - [x] Lists and Recursion
+ - [x] Tuples
  - [x] Laziness
  - [x] Async 
  - [x] foldr, foldl e Zipper
  - [x] Combinator Y
  - [x] QuickCheack
- - [x] Monoid, Functor e Tranversable
+ - [x] Monoid, Functor and Tranversable
  - [x] Eval Monoid
  - [x] ThereadScope
- - [x] Árvores Binárias
- - [x] Roseiras (rose Tree)
- - [x] Árvores Rubro-Negras
+ - [x] Árvores Binárias (Binary Tree)
+ - [x] Roseiras (Rose Tree)
+ - [x] Árvores Rubro-Negras (Red Black Tree)
  
  <!--
  [ ] Exercicio - Programa final - RPG de Texto 
  -->
 
-Material de referencia:
- - Canal UFABC do youtube: <br>
+Reference Material:
+ - Channel UFABC youtube: <br>
  https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ
  
- - Documentação Oficial Haskell: <br>
+ - Oficial Doc Haskell: <br>
  https://www.haskell.org/documentation/
  
- - Site sobre trabalhos de Alan Turing em programação funcional (ingles): <br>
+ - Site about works of Alan Turing in functional programming: <br>
  https://www.digitalonus.com/the-origins-of-functional-programming/
  
- - Aprender Haskell será um grande bem para você! (tradução em português do texto de Miran Lipovača, um guia inspirado no Why's Guide to Ruby) <br>
+ - Learn Haskell it will be a great asset to you! (translate in portuguese the text of Miran Lipovača, a inspired by Why's Guide to Ruby) <br>
  http://haskell.tailorfontela.com.br/chapters
  
