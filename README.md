@@ -1,6 +1,6 @@
 # Haskell-Learn 
   
- List to-do
+ List To-Do
  - [x] Lambdas
  - [x] Basic Types
  - [x] Assign Function and Where clause
