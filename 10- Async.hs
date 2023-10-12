@@ -10,8 +10,10 @@ main = do
 
 	-- cria uma MVar que inicialmente é vazia
 	m <- newEmptyMVar
+ 
 	-- putMVar coloca um valor numa MVar
 	forkIO $ putMVar m 'x'
+ 
 	-- takeMVar retorna o conteúdo da MVar
 	r <- takeMVar m
 	print r
