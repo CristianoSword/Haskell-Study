@@ -33,6 +33,6 @@ Reference Material:
  - Site about works of Alan Turing in functional programming: <br>
  https://www.digitalonus.com/the-origins-of-functional-programming/
  
- - Learn Haskell it will be a great asset to you! (translate in portuguese the text of Miran Lipovača, a inspired by Why's Guide to Ruby) <br>
+ - Learn Haskell it will be a great asset to you! (translate in portuguese the text of Miran Lipovača, a inspired by Why's Guide to Ruby) (the best tutorial haskell in pt-br)<br>
  http://haskell.tailorfontela.com.br/chapters
  
