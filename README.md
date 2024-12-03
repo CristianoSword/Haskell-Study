@@ -1,4 +1,9 @@
 # Haskell-Learn 
+
+❤❤❤❤❤❤❤❤❤❤ 100/100% 📚📚📚📚📚📚📚📚📚📚
+
+📕 Repo for study of Haskell and Funcional Paradigm.
+👾 The magic of studying a little every day 👾
   
  List To-Do
  - [x] Lambdas
